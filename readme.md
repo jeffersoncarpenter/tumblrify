@@ -5,6 +5,7 @@
 Choose any of
 
 `git clone https://github.com/jeffersoncarpenter/tumblrify.git`
+
 `npm install tumblrify`
 
 ## Sample usage:
