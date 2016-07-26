@@ -1,5 +1,7 @@
 # Tumblrify
 
+javascript function that converts from english to tumblr
+
 ## Install
 
 Choose any of
